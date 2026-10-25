@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1792896566255,
+      "votes": 2,
+      "userName": "Ramin",
+      "title": "Nice!",
+      "opinion": "Very good tutorial.\n"
+    },
+    {
+      "id": 1792860699338,
+      "votes": 1,
+      "userName": "Daniel",
+      "title": "Great, but complex.",
+      "opinion": "Really good course, but it takes alot of time to understand some complex concepts. Trust the process :)"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "opinion": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": -1
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "opinion": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
