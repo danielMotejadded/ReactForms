@@ -19,7 +19,7 @@ export function Opinion({ opinion: { id, title, opinion, userName, votes } }) {
     setVotesOptimistically("down");
     await downvoteOpinion(id);
   }
-
+//
   const [upvoteFromState, upvoteFromAction, upvotePending] =
     useActionState(upvoteAction);
   const [downvoteFormState, downvoteFormAction, downvotePending] =
